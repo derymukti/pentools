@@ -1,0 +1,14 @@
+flask
+flask_script
+Jinja2
+termcolor
+mysql-connector==2.1.4
+python-jose
+flask_session
+python-jose
+datetime
+redis
+basicauth
+requests
+Flask-MySQLdb
+PyMySQL
